@@ -1,11 +1,7 @@
 <x-app-layout>
-    <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            
-        </h2>
-    </x-slot>
+    <livewire:task-list>
     <div class="text-center">
-        <h1 class="text-4xl text-gray-700 mb-2 uppercase">Portfolio</h1>
+        <h1 class="text-4xl text-gray-700 mb-2 mt-4 uppercase">Portfolio</h1>
         <img class="w-32 h-32 rounded-full mx-auto" src={{ asset('images/profile.jpg') }}>
         <h2 class="text-2xl text-gray-600 ">Máximo Sánchez Conejo</h2>
         <h3 class="text-1xl text-gray-600">Estudiante de Ingeniería en Sistemas Computacionales</h3>
