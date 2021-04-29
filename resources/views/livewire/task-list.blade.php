@@ -31,7 +31,7 @@
 	<div class="cont-menu">
 		<nav>
             <a href="/">Inicio</a>
-            <a href="https://github.com/">Repositorio en Github</a>
+            <a href="https://github.com/MaximoReigns/unitOne">Repositorio en Github</a>
 		</nav>
 		<label for="btn-menu">✖️</label>
 	</div>
